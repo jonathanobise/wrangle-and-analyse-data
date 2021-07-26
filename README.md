@@ -5,10 +5,10 @@ Purpose: Gather and clean data from multiple sources for analysis
 
 # Skills:
 
-gathering data: programmatic file download, downloading API data
-assessing data: documenting cleanliness and tidiness issues
-cleaning data: cleaning for completeness, tidiness, validity, accuracy, consistency
-storing data: CSVs
-analyzing & visualizing data
++ data gathering: programmatically downloading relevant data
++ assessing data: dealing with quality, cleanliness and tidiness issues
++ cleaning data: cleaning for tidiness, validity, accuracy, consistency adn completeness
++ storing data: CSVs
++ analyzing & visualizing data
 
 # Libraries: pandas, json, tweepy, requests, matplotlib, seaborn, os, numpy
